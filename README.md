@@ -1,0 +1,2 @@
+# Covid-19-Analysis-Canada
+Problem statement is to visualize coronavirus is getting spread based on gender which means study is done to visualize distribution of coronavirus cases among men and women Two Visualizaton has been created using Plotly and pandas inbuilt visualization libraries. Plotly visualization is interactive one where the parameters can be turned on and off and on hover, we can see the data value. Other one is static showing line graphs of all the parameters and comparison can be done
